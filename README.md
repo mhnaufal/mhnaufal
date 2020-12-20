@@ -6,8 +6,8 @@ Hi there 👋, my name is Tama I am a college student majoring in Computer Scien
 + :penguin: Linux
 + :computer: HTML CSS
 
-- 🔭 I’m currently working on My web project 
-- 🌱 I’m currently learning Javascript & Network 
+- 🔭 I’m currently working on my small project 
+- 🌱 I’m currently learning **Javascript** & **Network** 
 - 💬 Ask me about anything :grin: 
 - 📫 How to reach me: 
 [![Twitter](https://img.shields.io/badge/-Twitter-08a0e9?style=flat&labelColor=08a0e9&logo=Twitter&logoColor=white)](https://www.twitter.com/ikiuyuu/)
