@@ -4,10 +4,10 @@ Hi there 👋, my name is Tama I am a college student majoring in Computer Scien
 ## Skills & Experiences
 + :beginner: C++ 
 + :penguin: Linux
-+ :computer: HTML CSS
++ :computer: HTML CSS JS PHP
 
 - 🔭 I’m currently working on my small project 
-- 🌱 I’m currently learning **Javascript** & **Cloud** 
+- 🌱 I’m currently learning about **Javascript** , **PHP**, and **Backend framework** 
 - 💬 Ask me about anything :grin: 
 - 📫 How to reach me: 
 [![Twitter](https://img.shields.io/badge/-Twitter-08a0e9?style=flat&labelColor=08a0e9&logo=Twitter&logoColor=white)](https://www.twitter.com/ikiuyuu/)
@@ -15,6 +15,3 @@ Hi there 👋, my name is Tama I am a college student majoring in Computer Scien
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mnpratamaa/)
 
 --- 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](https://mhnaufal.github.io)  
-
