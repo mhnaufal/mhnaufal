@@ -1,8 +1,7 @@
 # ❄️❄️❄️
 
-_Waiting for a shooting star🌟🌟🌟_
+__Waiting for a shooting star🌟🌟🌟__
 
-- 🔮 **[Nothing to click](https://mhnaufal.github.io/)**
-- [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/mhnaufal)
+**[Here it is](https://mhnaufal.github.io/)**
 
 # ❄️❄️❄️
