@@ -1,7 +1,7 @@
 # ❄️❄️❄️
 
-Enough saying Hi in GitHub profile, just look at my repos and go ahead over this link
+Enough saying Hi in my GitHub profile; just look at my repos and go ahead over this link
 
-**[.............](https://mhnaufal.github.io/)**
+**[PROFILE PAGE](https://mhnaufal.vercel.app/)**
 
 # ❄️❄️❄️
